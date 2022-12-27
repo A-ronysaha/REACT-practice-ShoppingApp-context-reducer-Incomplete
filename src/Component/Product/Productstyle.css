@@ -1,0 +1,23 @@
+.filters {
+    background-color: lightslategray;
+    color: beige;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 10px;
+    height: 86vh;
+}
+
+.filters > span {
+    padding-bottom: 30px;
+}
+
+.form-check{
+    padding-bottom: 20px;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+}
